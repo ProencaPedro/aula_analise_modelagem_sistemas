@@ -1,0 +1,63 @@
+A Análise e Modelagem de Sistemas é uma etapa essencial de desenvolvimento de software, tendo como o bjetivo:
+
+- Entender o problema
+
+- Levantar requisitos 
+
+- Representar a solução de forma estruturada antes da implementação.
+
+Ela funciona como a "ponte" entre o mundo real(problema do usuário) e o sistema computacional (a solução).
+
+
+O que é Análise de Sistemas?
+
+- A análise de sistemas foca em entender o problema e responder perguntas como:
+
+Qual o problema o sistema precisa resolverw
+Quem são os usarios?
+Quais funcionalidades são necessárias?
+Quais regras de negocios?
+Quais requisitos necessarios?
+
+Principais Atividades de Analise
+
+-Levantamento de requisitos ( funcionais e não funcionais)
+-Entrevistas com usuários e stakeholders
+-Documentação de requisitos
+
+
+			O que é Modelagem de Sistemasw
+
+-A modelagem de sistemas transforma os requisitos em representações visuais e estruturadas, facilitando o entendimento e a implementação
+
+-Aqui o foco passa a ser: como o sistema sera organizado e estruturado logicamente
+
+
+		Modelagem de Casos de Uso (UML)
+Mostra interações entre usuarios e o sistema:
+Atores: Usuarios ou Sistemas Externos
+Casos de Uso: Funcionalidades 
+Exemplos: Usuario --> "Realizar Login" / Usuario --> "Realiza a compra"
+
+		Modelagem Comportamental
+Descreve como o sistema se comporta ao longo do tempo 
+- Diagramas de Sequências
+- Diagramas de ativades 
+- Estado do Sistema
+
+		Relação Entre Análise e Modelagem
+Estapa:		Foco:					Resultado:
+Análise 	O que o sistema deve fazer		Requisitos
+Modelagem	Como o sistema será estuturado		Diagrama e arquitetura
+
+
+
+		Fluxo do Processo
+Entendimento do Problema (Analise) --> Levantamento de Requisitos --> Modelagem de Casos de Uso --> Modelagem Estrutural (Classes)
+--> Modelagem Comportamental --> Arquitetura do Sistema --> Implementação
+
+
+
+
+
+
